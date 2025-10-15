@@ -37,3 +37,15 @@ Firebase auto-deploys on every push to `main` via GitHub Actions.
 `.github/workflows/firebase-hosting.yml` handles build and deploy.
 
 ## 📂 Folder Structure
+/src /components /pages /sop-viewer /functions index.js /firebase.json /.firebaserc
+
+## 🧪 Local Development
+```bash
+npm install
+npm run dev
+Deploy Manually
+
+firebase deploy
+
+
+
